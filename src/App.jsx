@@ -3,7 +3,7 @@ import './App.css'
 import Footer from './components/footer/Footer'
 import Navbar from './components/navbar/Navbar'
 import UsersList from './components/users/UsersList'
-import NewUsers from './components/newUsers/newUsers'
+import NewUsers from './components/newUsers/NewUsers'
 
 function App() {
   const [users, setUsers] = useState([])
